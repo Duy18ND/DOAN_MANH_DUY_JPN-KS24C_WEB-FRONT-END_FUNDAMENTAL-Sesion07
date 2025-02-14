@@ -1,10 +1,15 @@
-*{
+* {
+    font-size: 20px;
     font-family: sans-serif;
+    color: #261a53;
+    box-sizing: border-box content-box;
+    margin: 0;
+    padding: 0;
 }
-.musik{
-    font-weight: bolder;
-    color: #41455e;
-}
-.p-section{
-    color: #4d4d4d;
+td {
+    font-size: 30px;
+    font-weight: 700;
+    color: #c7464c;
+    background-color: white;
+    border-radius: 5px;
 }
